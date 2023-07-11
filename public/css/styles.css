@@ -1,0 +1,42 @@
+.logo {
+    text-align: right;
+    margin: 0 100px;
+}
+.nav-item {
+    padding: 15px;
+}
+.banner {
+    background: url(../images/banner.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 150px;
+}
+
+.btn-shop {
+    display: inline-block;
+    background: #d8703f;
+    border-radius: 25px;
+    padding: 15px 30px;
+    margin: 15px 0 ;
+}
+.HOME {
+    display: inline-block;
+    border-radius: 99PX;
+    border: 4PX solid #d8703f;
+   width: 100px;
+}
+.btn-add {
+    display: inline-block;
+    color: #d8703f;
+    padding:0 15px ;
+    margin: 10px 15px;
+    text-decoration: none;
+    border:.8px solid #d8703f;
+}
+.col {
+    padding-left: -130px;
+}
+.footer {
+    background: #2e2e2e;
+    color: #777e84;
+}
